@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/camera_calibration.JPG "Camera Calibration"
+[image1]: ./examples/camera_calibration.jpg "Camera Calibration"
 [image2]: ./examples/undistortion.JPG "Image Undistortion"
 [image3]: ./examples/undistortion2.JPG "Image Undistortion"
 [image4]: ./examples/threshold.JPG "Thresholded image"
