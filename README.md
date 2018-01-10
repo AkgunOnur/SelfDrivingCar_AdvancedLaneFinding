@@ -112,3 +112,7 @@ The video stream of result is [here](./project_video_output.mp4)
 ### Discussion
 
 The problems which are often encountered are mostly exclusively due to lighting conditions, shadows, discoloration, etc. Although, good results are obtained by using Sobel filters, lane lines are found more robustly by B channel of LAB colorspace which isolates yellow line well and L channel of HLS colorspace. Even though the threshold parameters can be adjusted to find the lane lines in a video stream, the filter may fail in case of snowy weather or a white car entering the frame. Therefore, an automated system should be used to adjust the filter for every possible circumstances
+
+### Acknowledgment
+
+I appreciate `jeremy-shannon` because of his work. It helped a lot during the whole process.
